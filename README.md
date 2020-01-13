@@ -1,4 +1,5 @@
-View website here: https://meramos.github.io/portfolio/
+<h2>View website here: https://meramos.github.io/portfolio/</h2>
+Tutorial followed in order to host React App on GitHub: https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

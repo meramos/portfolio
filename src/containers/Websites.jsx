@@ -46,7 +46,7 @@ export default class Websites extends PureComponent {
                   <h1>Skilledmatica</h1>
                   <p>Entry for EDUCATION GOT HACKED! hackathon. Developed using ReactJS. 
                     An interactive game for students to practice solving algebraic equations.</p>
-                  <Button onClick={this.btnClick.bind(this,'http://skilledmatica.appspot.com/')}>View Site</Button>
+                  <Button onClick={this.btnClick.bind(this,'https://meramos.github.io/Skilledmatica/')}>View Site</Button>
                 </div>
               }
             />
@@ -67,7 +67,7 @@ export default class Websites extends PureComponent {
                   <p>Two page website, one introductory page and one content page. Content page has parallax scroll and cutout text.
                     Developed with ReactJS.
                   </p>
-                  <Button onClick={this.btnClick.bind(this,'http://reactapp2-264403.appspot.com/')}>View Site</Button>
+                  <Button onClick={this.btnClick.bind(this,'https://meramos.github.io/parallax-site')}>View Site</Button>
                 </div>
               }
             />
