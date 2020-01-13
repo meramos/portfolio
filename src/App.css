@@ -1,0 +1,13 @@
+html{
+  min-height: 100%;
+  background: rgb(0, 25, 49);
+}
+
+.App{
+  min-height: 100%;
+  background: rgb(0, 25, 49);
+}
+
+.container{
+  margin-top:100px;
+}
