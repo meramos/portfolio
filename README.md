@@ -1,5 +1,10 @@
 <h2>View website here: https://meramos.github.io/portfolio/</h2>
+
 Tutorial followed in order to host React App on GitHub: https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+
+Tutorials followed in order to use a custom domain for the website: 
+- https://itnext.io/hosting-a-react-app-for-free-using-github-pages-7328ea04b11c
+- https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
